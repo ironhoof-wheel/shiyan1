@@ -1,0 +1,95 @@
+[
+  {
+    "id": "IH-FF01",
+    "name": "SILVER",
+    "category": "flow-formed",
+
+    "price": 189,
+
+    "image": "assets/img/pcioooooooo_5.png",
+
+    "images": [
+      "assets/img/pcioooooooo_5.png",
+      "assets/img/pcioooooooo_5.png",
+      "assets/img/pcioooooooo_5.png"
+    ],
+
+    "color": "Silver",
+
+    "sizeRange": "18-22 inch",
+
+    "pcd": "5x112 / 5x120",
+
+    "offset": "ET35-45",
+
+    "material": "A356 Aluminum",
+
+    "process": "Flow Formed",
+
+    "desc": "Premium flow-formed wheel engineered for optimal strength, lightweight performance and aggressive styling."
+  },
+
+
+  {
+    "id": "IH-FF02",
+    "name": "BLACK EDITION",
+    "category": "flow-formed",
+
+    "price": 219,
+
+    "image": "assets/img/pcioooooooo_5.png",
+
+    "images": [
+      "assets/img/pcioooooooo_5.png",
+      "assets/img/pcioooooooo_5.png",
+      "assets/img/pcioooooooo_5.png"
+    ],
+
+    "color": "Gloss Black",
+
+    "sizeRange": "18-22 inch",
+
+    "pcd": "5x112 / 5x120",
+
+    "offset": "ET30-45",
+
+    "material": "A356 Aluminum",
+
+    "process": "Flow Formed",
+
+    "desc": "A bold performance wheel designed for street and track applications."
+  },
+
+
+  {
+    "id": "IH-FG01",
+    "name": "FORGED SERIES",
+
+    "category": "forged",
+
+    "price": 599,
+
+    "image": "assets/img/pcioooooooo_5.png",
+
+    "images": [
+      "assets/img/pcioooooooo_5.png",
+      "assets/img/pcioooooooo_5.png",
+      "assets/img/pcioooooooo_5.png"
+    ],
+
+    "color": "Custom",
+
+    "sizeRange": "19-22 inch",
+
+    "pcd": "5x112 / 5x120",
+
+    "offset": "Custom",
+
+    "material": "6061-T6 Forged Aluminum",
+
+    "process": "Monoblock Forged",
+
+    "desc": "High-performance forged wheel built for maximum strength and reduced weight."
+  }
+
+]
